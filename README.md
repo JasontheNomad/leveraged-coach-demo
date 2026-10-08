@@ -2,8 +2,6 @@
 
 A private community platform for online coaches — courses, live video sessions, recordings, member chat and group-based access control — built to replace a Circle.so subscription for a real coaching business.
 
-**Live demo:** _coming soon_ — no sign-up needed, you're logged in as a demo member automatically.
-
 ![Dashboard](docs/screenshots/dashboard.png)
 
 > This is a public demo copy of the production app. Real members, private course material and API keys have been removed; the demo runs on sample data.
