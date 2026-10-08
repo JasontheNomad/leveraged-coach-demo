@@ -1,0 +1,659 @@
+[
+    {
+        "title": "YouTube Marketing Academy",
+        "slug": "youtube-marketing-academy",
+        "description": null,
+        "thumbnail": "thumbnails/01KSRB79NZX7M9H89AKACKAC4R.jpg",
+        "price_type": "leveraged_coach",
+        "published": true,
+        "modules": [
+            {
+                "title": "Pillars & Purpose",
+                "position": 1,
+                "lessons": [
+                    {
+                        "title": "Welcome",
+                        "video_url": "https://player.mediadelivery.net/play/671315/891efaae-b4e3-452b-bcfb-907d80999f18",
+                        "body": "<div><p>Welcome to the YouTube Marketing Academy! We officially start on January 20th at 10AM. Come back here at that time to see the first series of trainings. </p></div>",
+                        "duration_seconds": null,
+                        "position": 1,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "The Current State of Youtube",
+                        "video_url": "https://player.mediadelivery.net/play/671315/4d5c9958-58fc-4739-9c7e-6a6f146b267e",
+                        "body": "<div><h2><a href=\"#\"><u>The Current State of YouTube Doc</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 2,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Defining Your Channel's Purpose",
+                        "video_url": "https://player.mediadelivery.net/play/671315/36692593-ce3c-4e92-91e3-c30759062cc6",
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 3,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Creating Your Content Pillars",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 4,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "12 Content Variations Based on Awareness",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"#\"><u>12 Content Types Doc</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 5,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "13 Ways to Create Endless Content",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"#\"><u>13 Ways to Create Endless Content Doc</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 6,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "BONUS: Ken Madden Interview from Ciro",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 7,
+                        "is_preview": false
+                    }
+                ]
+            },
+            {
+                "title": "Channel Setup, Gear, and Software",
+                "position": 2,
+                "lessons": [
+                    {
+                        "title": "Creating Your Channel",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"https://support.google.com/mail/answer/56256?hl=en\" target=\"_blank\" rel=\"noopener noreferrer\"><u>How To Create A Gmail Account</u></a></h2><h2><a href=\"https://support.google.com/youtube/answer/4568863?hl=en\" target=\"_blank\" rel=\"noopener noreferrer\"><u>How To Create A YouTube Channel</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 1,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Creating Your Channel Art",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"https://www.canva.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><u>Canva.com</u></a></h2><h2><a href=\"https://pfpmaker.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><u>Free Profile Picture Maker</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 2,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Cameras, Lighting & Audio Equipment",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"#\"><u>Gear &amp; Tools List With Links</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 3,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "The Best Editing Software for Your Needs",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"https://www.blackmagicdesign.com/products/davinciresolve\" target=\"_blank\" rel=\"noopener noreferrer\"><u>Davinci Resolve</u></a></h2><h2><a href=\"https://www.capcut.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><u>Capcut</u></a></h2><h2><a href=\"https://www.apple.com/final-cut-pro/\" target=\"_blank\" rel=\"noopener noreferrer\"><u>Final Cut Pro</u></a></h2><h2><a href=\"https://www.adobe.com/products/premiere.html\" target=\"_blank\" rel=\"noopener noreferrer\"><u>Premiere Pro</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 4,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Tips for Setting Up a Home Studio",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 5,
+                        "is_preview": false
+                    }
+                ]
+            },
+            {
+                "title": "Scripting & Thumbnails",
+                "position": 3,
+                "lessons": [
+                    {
+                        "title": "Before You Start to Script",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 1,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "The Art & Science of Storytelling",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"#\"><u>Download The Google Doc</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 2,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "How To Set Up UTM Links for Your Videos",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"https://ga-dev-tools.google/ga4/campaign-url-builder/\" target=\"_blank\" rel=\"noopener noreferrer\"><u>Campaign URL Builder</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 3,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Creating Thumbnails In Canva",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"https://www.canva.com/\" target=\"_blank\" rel=\"noopener noreferrer\"><u>Canva.com</u></a></h2><h2><a href=\"https://www.pixelmator.com/pro/\" target=\"_blank\" rel=\"noopener noreferrer\"><u>Pixelmator Pro</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 4,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Writing Your First Video Script",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 5,
+                        "is_preview": false
+                    }
+                ]
+            },
+            {
+                "title": "Shooting Your Videos",
+                "position": 4,
+                "lessons": [
+                    {
+                        "title": "Technical Jargon You Need To Know",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"#\"><u>DOWNLOAD THE GOOGLE DOC</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 1,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Practical Exercise",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 2,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "[YouTube Video] i'm in a creative rut",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 3,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Video Breakdown",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 4,
+                        "is_preview": false
+                    }
+                ]
+            },
+            {
+                "title": "Editing & Posting",
+                "position": 5,
+                "lessons": [
+                    {
+                        "title": "Setting Up Your Keyboard",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 1,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Create Your Timeline & Import Your Footage",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 2,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Cutting Up Your Footage",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 3,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Adding Transitions",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 4,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Basic Color Correction",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 5,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Correcting Skin Tones",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 6,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Creating Your LOOK",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 7,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Audio & Rendering",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 8,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Uploading To YouTube",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 9,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "DCTL Skin Tone Checker",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"https://pixeltoolspost.com/pages/free-toolkit-for-davinci-resolve\" target=\"_blank\" rel=\"noopener noreferrer\">https://pixeltoolspost.com/pages/free-toolkit-for-davinci-resolve</a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 10,
+                        "is_preview": false
+                    }
+                ]
+            },
+            {
+                "title": "BTS & Walkthroughs",
+                "position": 6,
+                "lessons": [
+                    {
+                        "title": "[Walkthrough] Creating Listicle Videos",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 1,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "[BTS] Shooting Multiple People with One Camera",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 2,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "[BTS] Why Shooting Multiple Angles is a Must",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 3,
+                        "is_preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Authority Brand Workshop",
+        "slug": "authority-brand-workshop",
+        "description": null,
+        "thumbnail": "thumbnails/01KSTHK9SWEJ4ZBDYZWENKYRHC.png",
+        "price_type": "leveraged_coach",
+        "published": true,
+        "modules": [
+            {
+                "title": "Authority Brand Workshop",
+                "position": 1,
+                "lessons": [
+                    {
+                        "title": "Introduction",
+                        "video_url": "https://player.mediadelivery.net/play/671315/70336e83-ea64-4e15-b9da-8569a185744b",
+                        "body": "<div><h2><a href=\"#\"><u>DOWNLOAD THE PDF</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 1,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "A Brief Discussion On Influence",
+                        "video_url": "https://player.mediadelivery.net/play/671315/5d1f5679-b176-48c6-9536-87c6620cdfb2",
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 2,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Your Transformational Point of View",
+                        "video_url": "https://player.mediadelivery.net/play/671315/2ba8377a-a10a-42fa-ae0e-5de11ff5b99b",
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 3,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "TPOV Review",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 4,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Your Mission",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 5,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Mission Review",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 6,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Your Unique Mechanism",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 7,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Unique Mechanism Review",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 8,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Your Brand Character",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 9,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Q&A and Final Thoughts",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 10,
+                        "is_preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Training Vault",
+        "slug": "training-vault",
+        "description": null,
+        "thumbnail": "thumbnails/01KSZTF8NR8NJN5AK84YXJ3Q7X.jpg",
+        "price_type": "leveraged_coach",
+        "published": true,
+        "modules": [
+            {
+                "title": "Clarifying Your Prospect, Problem & Solution",
+                "position": 1,
+                "lessons": [
+                    {
+                        "title": "Welcome to the Collective",
+                        "video_url": "https://player.mediadelivery.net/play/671315/57a4b65b-a61f-47c5-9a93-e305b4c343c8",
+                        "body": "<div><h2><a href=\"#\"><u>Slide Deck</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 1,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Get Clear on Your Problem and Prospect",
+                        "video_url": "https://player.mediadelivery.net/play/671315/d517afb9-1497-4b53-a831-d152c9d2b7b1",
+                        "body": "<div><h2><a href=\"#\"><strong><u>Ideal Prospect “Frame of Reference” Sheet</u></strong></a></h2><h2><a href=\"#\"><strong><u>Program Outliner</u></strong></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 2,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Intro To Reputation",
+                        "video_url": "https://player.mediadelivery.net/play/671315/17cb2fb9-9dd1-4406-a55e-36479892fa23",
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 3,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Authority Branding 101",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"#\"><u>Click Here For The Authority Brand Notion Doc</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 4,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Crafting a Kickass Elevator Pitch",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 5,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Setting Up Your Social Profiles",
+                        "video_url": null,
+                        "body": "<div><a class=\"embed\" href=\"https://pfpmaker.com\" target=\"_blank\" rel=\"noopener noreferrer\">Free Profile Picture Maker - Generate your PFP with AI</a><h2><u>For Header Design I Use Canva.</u></h2><h2><a href=\"https://www.canva.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.canva.com/</a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 6,
+                        "is_preview": false
+                    }
+                ]
+            },
+            {
+                "title": "Building Out Your Program",
+                "position": 2,
+                "lessons": [
+                    {
+                        "title": "Program Architecture",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"#\"><u>Download The Reference Doc</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 1,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Asset Organization",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"#\"><u>Get A Copy Of The Asset Organization Notion Doc</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 2,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "The Modern Buyers Journey: A 50,000 Foot View",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"#\"><u>Download the Slide Deck</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 3,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Creating Individual Trainings Using The 5 W's",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"#\"><u>DOWNLOAD THE NOTION DOC</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 4,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Tools Of The Trade",
+                        "video_url": null,
+                        "body": "<div><p>When you start to dive into the tools and software you’ll need to run your coaching business it can be overwhelming. There are a limitless number of options available for video, audio, page builders, and communities. Each claiming to be the “best”. </p><p>Knowing what solution is right for you will depend on your objectives, budget and how you choose to deliver your coaching. These solutions change all the time. In the past, I’ve spent hours recording videos that offer suggestions on which tools I feel are the best only to have a new/better solution become available a week later. </p><p>So to help you stay up to date on the best solutions available I’ve created this document for you to reference. As new/better options become available, I’ll update the list so the information is always current. </p><h2><a href=\"#\"><u>DOWNLOAD THE GOOGLE DOC</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 5,
+                        "is_preview": false
+                    }
+                ]
+            },
+            {
+                "title": "Creating Your Program & Sales Process",
+                "position": 3,
+                "lessons": [
+                    {
+                        "title": "Systeme Page Builder Overview",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"#\"><u>GET YOUR FREE SYSTEME ACCOUNT</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 1,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Building Out Your First Program",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 2,
+                        "is_preview": false
+                    }
+                ]
+            },
+            {
+                "title": "Creating Your First Offer",
+                "position": 4,
+                "lessons": [
+                    {
+                        "title": "Offer Construction Walkthrough",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"#\"><u>Offer Construction Outline</u></a></h2><h2><a href=\"#\"><u>Offer Construction Example</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 1,
+                        "is_preview": false
+                    }
+                ]
+            },
+            {
+                "title": "Creating Your Sales Funnel",
+                "position": 5,
+                "lessons": [
+                    {
+                        "title": "Funnel Overview",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 1,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Sales Page",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"https://www.youtube.com/watch?v=yVVIQpCW2ro\" target=\"_blank\" rel=\"noopener noreferrer\"><u>INSTRUCTIONS ON HOW TO SET UP A CUSTOM DOMAIN</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 2,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Order Page",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 3,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Thank You Page",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 4,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Automations & Tagging",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 5,
+                        "is_preview": false
+                    }
+                ]
+            },
+            {
+                "title": "Creating Your Lead Magnet",
+                "position": 6,
+                "lessons": [
+                    {
+                        "title": "Lead Magnet Oveview",
+                        "video_url": null,
+                        "body": "<div><h2><a href=\"#\"><u>Download the PDF</u></a></h2></div>",
+                        "duration_seconds": null,
+                        "position": 1,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Lead Magnet Example",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 2,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Lead Magnet Offer",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 3,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Things to Avoid",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 4,
+                        "is_preview": false
+                    },
+                    {
+                        "title": "Opt-in Page Design Examples",
+                        "video_url": null,
+                        "body": null,
+                        "duration_seconds": null,
+                        "position": 5,
+                        "is_preview": false
+                    }
+                ]
+            },
+            {
+                "title": "Live Sessions",
+                "position": 7,
+                "lessons": []
+            }
+        ]
+    }
+]

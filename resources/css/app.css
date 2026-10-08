@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Lesson body prose — Leveraged Coach brand ── */
+
+.lesson-body {
+    font-size: 1.125rem;
+    line-height: 1.75;
+
+    /* base text colour (overrides prose-invert where needed) */
+    --tw-prose-body:          #d1d5db;
+    --tw-prose-headings:      #ffffff;
+    --tw-prose-lead:          #9ca3af;
+    --tw-prose-links:         #f5a623;
+    --tw-prose-bold:          #ffffff;
+    --tw-prose-counters:      #9ca3af;
+    --tw-prose-bullets:       #6b7280;
+    --tw-prose-hr:            #2a2a2a;
+    --tw-prose-quotes:        #d1d5db;
+    --tw-prose-quote-borders: #f5a623;
+    --tw-prose-captions:      #6b7280;
+    --tw-prose-code:          #f5a623;
+    --tw-prose-pre-code:      #d1d5db;
+    --tw-prose-pre-bg:        #111111;
+    --tw-prose-th-borders:    #2a2a2a;
+    --tw-prose-td-borders:    #1a1a1a;
+}
+
+.lesson-body p,
+.lesson-body li,
+.lesson-body blockquote {
+    font-size: 1.125rem;
+}
+
+.lesson-body a {
+    color: #f5a623;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    transition: color 0.15s ease;
+}
+
+.lesson-body a:hover {
+    color: #e09415;
+}
+
+.lesson-body blockquote {
+    border-left-color: #f5a623;
+    background: #111111;
+    border-radius: 0 0.5rem 0.5rem 0;
+    padding: 0.75rem 1rem;
+}
+
+.lesson-body pre {
+    background: #111111;
+    border: 1px solid #2a2a2a;
+}
+
+.lesson-body code:not(pre code) {
+    background: #1a1a1a;
+    border: 1px solid #2a2a2a;
+    border-radius: 0.25rem;
+    padding: 0.125rem 0.375rem;
+    color: #f5a623;
+    font-size: 0.875em;
+}
+
+.lesson-body hr {
+    border-color: #2a2a2a;
+}
